@@ -23,10 +23,10 @@ int main(){
 			break;
 		}
 	}	
-	if(count=0){
+	if(count==0){
 		printf("So %d khong nam trong mang ",x);
 		}
-	if(count=1){
+	if(count==1){
 		printf("So %d co nam trong mang ",x);
 		}
 	}	
